@@ -26,7 +26,7 @@ Tools Used
 
    <img width="1173" height="483" alt="Patients_Dashboard" src="https://github.com/user-attachments/assets/3401afac-caf2-426a-9266-88c8b9e30ceb" />
 
-   -
+   
 
 2. Financial Dashboard
 - Gross Revenue: ₹37.08 Cr | Net Revenue: ₹34.42 Cr
@@ -39,7 +39,7 @@ Tools Used
   through Insurance/Cashless payments, making claim approval rates 
   (53.6%) a critical driver of cash flow.
 
--
+
 
 3. Pharmacy & Labs Dashboard
 - Pharmacy Sales: ₹8.06 Cr
@@ -47,6 +47,16 @@ Tools Used
 - Tracked top-selling medicines, lab test volumes, and radiology scan usage
 
   <img width="1126" height="568" alt="Pharmacy_Labs_Dashboard" src="https://github.com/user-attachments/assets/2fd2df82-2a00-4548-9fc0-04e1e5c0c989" />
+
+
+
+
+
+
+*Future Improvements*
+- Migrate to Power BI for enhanced interactivity and cloud sharing
+- Add predictive analytics for patient volume forecasting
+- Automate monthly data refresh using Power Query
 
 
 
