@@ -26,6 +26,7 @@ Tools Used
 
    <img width="1173" height="483" alt="Patients_Dashboard" src="https://github.com/user-attachments/assets/3401afac-caf2-426a-9266-88c8b9e30ceb" />
 
+   -
 
 2. Financial Dashboard
 - Gross Revenue: ₹37.08 Cr | Net Revenue: ₹34.42 Cr
@@ -38,7 +39,7 @@ Tools Used
   through Insurance/Cashless payments, making claim approval rates 
   (53.6%) a critical driver of cash flow.
 
-
+-
 
 3. Pharmacy & Labs Dashboard
 - Pharmacy Sales: ₹8.06 Cr
