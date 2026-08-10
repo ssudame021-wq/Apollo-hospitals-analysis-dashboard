@@ -34,6 +34,11 @@ Tools Used
 
  <img width="1184" height="493" alt="Financial_Dashboard" src="https://github.com/user-attachments/assets/918fa93b-d636-4d60-ad86-930f20c4c35e" />
 
+ **Insurance dependency**: Nearly 1/3rd of total collections come 
+  through Insurance/Cashless payments, making claim approval rates 
+  (53.6%) a critical driver of cash flow.
+
+
 
 3. Pharmacy & Labs Dashboard
 - Pharmacy Sales: ₹8.06 Cr
